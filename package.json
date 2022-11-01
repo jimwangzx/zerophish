@@ -13,7 +13,7 @@
   "homepage": "https://getgophish.com",
   "devDependencies": {
     "clean-css": "^3.4.23",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^2.3.2",
     "gulp-cli": "^1.4.0",
     "gulp-concat": "^2.6.1",
